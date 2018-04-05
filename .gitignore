@@ -1,0 +1,10 @@
+#api
+config.js
+
+## node_modules
+node_modules/
+## bundle
+./dist/bundle.js
+
+## vs code 
+.vscode
